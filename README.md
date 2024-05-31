@@ -1,4 +1,5 @@
 # FinTextQA
+Coming soon, i am preparing for the camera ready of ACL 2024.
 
 ## Requirements
 
@@ -8,7 +9,7 @@ To create an environment with [MiniConda](https://docs.anaconda.com/free/minicon
 ```bash
 conda create -n fintextqa python==3.10
 conda activate fintextqa
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
