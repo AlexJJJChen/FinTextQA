@@ -1,5 +1,5 @@
 # FinTextQA
-Coming soon, i am preparing for the camera ready of ACL 2024.
+The dataset is still under compliance check by HSBC Legal department. 
 
 ## Requirements
 
