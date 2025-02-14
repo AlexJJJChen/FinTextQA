@@ -1,5 +1,5 @@
 # FinTextQA
-Thank you for your attention to this dataset. Unfortunately, I am sorry to inform you that the legal department at HSBC has not granted permission to open source the dataset. However, I would be happy to provide details on how we collected the data if you are interested. Send me an email via jchen524@connect.hkust-gz.edu.cn
+Thank you for your attention to this dataset. Unfortunately, I am sorry to inform you that the legal department at HSBC has not granted permission to open source the dataset of textbook part. However, I would be happy to provide details on how we collected the data if you are interested. Send me an email via jchen524@connect.hkust-gz.edu.cn
 
 ## Requirements
 
